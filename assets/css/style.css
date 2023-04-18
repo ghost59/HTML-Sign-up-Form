@@ -51,9 +51,7 @@ legend {
     font-weight: bold;
 }
 
-fieldset {
-    margin: 20px 0;
-}
+
 
 input[type='submit'] {
     font-size: 1.5em;
